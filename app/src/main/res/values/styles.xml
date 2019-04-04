@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="HeaderBar">
+        <item name="android:background">@color/colorToolBar</item>
+    </style>
+
+    <style name="WeekDayTitleStyle">
+        <item name="android:layout_width">@dimen/custom_textview_box_size</item>
+        <item name="android:layout_height">@dimen/custom_textview_box_size</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="DayOfMonthStyle">
+        <item name="android:layout_width">@dimen/custom_textview_layout_width</item>
+        <item name="android:layout_height">@dimen/custom_textview_layout_height</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:minHeight">@dimen/custom_textview_min_height</item>
+        <item name="android:minWidth">@dimen/custom_textview_min_width</item>
+    </style>
+
+    <style name="ContainerDayOfWeek">
+        <item name="android:layout_width">@dimen/custom_textview_box_size</item>
+        <item name="android:layout_height">@dimen/custom_textview_box_size</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+</resources>

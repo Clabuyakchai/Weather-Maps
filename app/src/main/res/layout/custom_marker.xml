@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/custom_marker_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_marker"
+        android:gravity="center"
+        android:paddingBottom="@dimen/custom_marker_padding_bottom"
+        android:textSize="@dimen/custom_marker_text_size"
+        tools:text="12" />
+</LinearLayout>

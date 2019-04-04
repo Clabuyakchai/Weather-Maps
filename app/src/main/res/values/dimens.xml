@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--fragment_weather-->
+    <dimen name="city_size">20sp</dimen>
+    <dimen name="city_margin_top">24dp</dimen>
+    <dimen name="code_country_size">15sp</dimen>
+    <dimen name="code_country_margin_top">3dp</dimen>
+    <dimen name="weather_description_size">35sp</dimen>
+    <dimen name="image_weather_margin_top">20dp</dimen>
+    <dimen name="image_weather_margin_bottom">40dp</dimen>
+    <dimen name="weather_description_margin_bottom">20dp</dimen>
+    <dimen name="temp_size">30sp</dimen>
+    <dimen name="icon_size">100sp</dimen>
+    <dimen name="custom_marker_width">60dp</dimen>
+    <dimen name="custom_marker_height">60dp</dimen>
+    <dimen name="custom_marker_padding">2dp</dimen>
+    <dimen name="custom_marker_text_size">40sp</dimen>
+    <dimen name="custom_marker_padding_bottom">30dp</dimen>
+
+    <!--custom_textview-->
+    <dimen name="custom_textview_layout_width">34dp</dimen>
+    <dimen name="custom_textview_layout_height">34dp</dimen>
+    <dimen name="custom_textview_min_width">50dp</dimen>
+    <dimen name="custom_textview_min_height">0dp</dimen>
+    <dimen name="custom_textview_box_size">44dp</dimen>
+</resources>
